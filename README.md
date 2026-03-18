@@ -23,7 +23,7 @@ install.packages("MASS")
 ### description of each .R file
 `__main__` the main code to be run for demonstration.
 
-`em_arguments.R` contains functions that are used for .
+`em_arguments.R` contains functions that are used for setups.
 
 `em_aux.R` contains some auxiliary functions needed for performing the method.
 
